@@ -162,9 +162,9 @@ function BookingForm() {
             </p>
           </div>
 
-          <div className="features-grid">
+      <div className="features-grid">
       <div className="feature-card">
-      <div className="feature-icon">🛩️</div>
+      <div className="feature-icon">✈</div>
       <div className="feature-title">Private Jet Comfort</div>
     <div className="feature-text">
           Spacious cabins, premium seating and personalized service.
@@ -172,7 +172,7 @@ function BookingForm() {
         </div>
 
       <div className="feature-card">
-      <div className="feature-icon">⚡</div>
+      <div className="feature-icon">◎</div>
       <div className="feature-title">Instant Booking</div>
       <div className="feature-text">
         Book your flight in seconds with immediate confirmation.
@@ -180,14 +180,14 @@ function BookingForm() {
       </div>
 
   <div className="feature-card">
-    <div className="feature-icon">🌍</div>
+    <div className="feature-icon">◈</div>
     <div className="feature-title">Exclusive Destinations</div>
     <div className="feature-text">
       Fly directly to unique locations across New Zealand and beyond.
     </div>
   </div>
+</div> 
 </div>
-        </div>
 
         {/* Summary */}
         <div style={{ background: '#0B1E35', borderRadius: 16, padding: '1.8rem', position: 'sticky', top: 90, height: 'fit-content' }}>
